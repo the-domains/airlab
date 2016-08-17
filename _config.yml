@@ -1,0 +1,14 @@
+layout_spectrum: 0.7379229846410453
+typography_spectrum: 0.7767016605939716
+color:
+  brandStrength: 0.8808415869716555
+  lightness: 0.5579784710425884
+  saturation: 0.4078884324990213
+  rhythmicContrast: 0.27841598098166287
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: Airlab
