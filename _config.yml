@@ -12,7 +12,3 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Airlab
-navigation:
-  - name: Contact Us
-    url: Contact Us
-    type: external
