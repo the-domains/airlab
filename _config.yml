@@ -16,3 +16,6 @@ navigation:
   - name: About Us
     url: About Us
     type: external
+  - name: Work
+    url: Work
+    type: external
